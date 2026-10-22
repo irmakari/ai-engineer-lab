@@ -19,7 +19,8 @@ Bu repo, Irmak'ın Notion'daki "AI Engineer" planını (📆 Günlük Plan, 8 ha
    - Conventional Commits formatında İngilizce commit mesajı öner
    - 4 soruluk mini quiz yap ve puanla. Yarım cevapta eksik kısmı tamamla
    - Notion'u güncelle: günün checkbox'ları, Tamamlandı, sayfa sonuna "📒 Notlarım". Görev bitti ise Görev'in Durum'unu "Bitti" yap
-   - "🎤 Mülakat Notları" sayfasını güncelle: 📖 Sözlük tablolarına yeni terimleri ekle (Terim | Açıklama), alta da o günün bölümünü 📌 Kavram / 💬 Mülakatta söyle / 🧠 Akılda kalsın formatında ekle
+   - "🎤 Mülakat Notları" sayfasını güncelle: 📖 Sözlük tablolarına yeni terimleri ekle (Terim | Açıklama), en alta o günün bölümünü 📌 Kavram / 💬 Mülakatta söyle / 🧠 Akılda kalsın formatında ekle
+   - Ayrı "❓ Mülakat Soru-Cevap" sayfasına (AI Engineer altında, Mülakat Notları'ndan ayrı) o günün sorularını düz metin olarak ekle (`### N. Soru?` başlığı, altında 2-4 cümlelik cevap paragrafı, mümkünse kendi ölçümümüzle, en altta 🧠 akılda kalsın satırı; numaralar devam eder). Mülakat Notları sayfası terimler ve kavramlar içindir, soru-cevaplar oraya yazılmaz. Mülakat içeriği tablo/veritabanı olarak değil, okunabilir metin olarak yazılır; Günlük Plan tablolarına mülakat sütunu ya da sekmesi eklenmez
 
 ## Doğruluk
 - Notion planı bazı yerlerde eskimiş olabilir (ör. `temperature` Sonnet 5.5 / SDK 1.15'te yok, yerine `output_config.effort` var). API'yi anlatmadan önce kurulu SDK'yı ve güncel dokümanı kontrol et. Planla çelişen bir şey bulursan bunu bir ders olarak anlat.
